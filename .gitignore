@@ -1,0 +1,13 @@
+# Byte-compiled
+__pycache__/
+
+# Environments
+.env
+.venv
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
