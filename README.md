@@ -55,7 +55,7 @@ docker compose up -d
 ### 3. Настройка окружения
 
 ```bash
-# Создайте .env файл (опционально)
+# Создайте .env файл 
 DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/db
 ```
 
