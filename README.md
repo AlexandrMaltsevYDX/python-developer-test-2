@@ -15,6 +15,7 @@
 ├── index.ipynb           # Основной Jupyter notebook с решением
 ├── fixtures.py           # Генерация тестовых данных
 ├── docker-compose.yaml   # Конфигурация PostgreSQL
+├── requirements.txt      # Зависимости для pip
 ├── pyproject.toml        # Зависимости проекта
 └── README.md             # Документация
 ```
